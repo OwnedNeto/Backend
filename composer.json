@@ -1,0 +1,15 @@
+{
+    "name": "ernes/back-end",
+    "description": "Ejercicio numero 1 de la materia_proyecto1",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ernes\\BackEnd\\": "src/"
+        }
+    },
+    
+    "minimum-stability": "dev",
+    "require": {
+        "vlucas/phpdotenv": "^5.6@dev"
+    }
+}
